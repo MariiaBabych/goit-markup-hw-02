@@ -59,14 +59,15 @@ button {
     color: #404bbf;
 }
 
-.address {}
+.address {
+    font-style: normal;
+}
 
 .address-list {}
 
 .address-item {
     line-height: 1.5;
     letter-spacing: 0.02em;
-    font-style: normal;
 }
 
 .address-link:hover,
