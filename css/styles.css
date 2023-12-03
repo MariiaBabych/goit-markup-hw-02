@@ -1,0 +1,85 @@
+
+/* хедер */
+.header {}
+
+.header-nav {}
+
+.header-logo {}
+
+.header-list {}
+
+.header-item {}
+
+.header-link {}
+
+.address {}
+
+.address-list {}
+
+.address-item {}
+
+.address-link {}
+
+
+/* основний контент */
+/* секція 1 solution */
+
+.solution {}
+
+.solution-title {}
+
+.solution-button {}
+
+/* секція 2 feature */
+
+.feature {}
+
+.feature-title {}
+
+.feature-list {}
+
+.feature-item {}
+
+.feature-item-title {}
+
+.feature-item-text {}
+
+/* секція 3 Our Team */
+
+.team {}
+
+.team-title {}
+
+.team-list {}
+
+.team-item {}
+
+.team-item-img {}
+
+.team-item-title {}
+
+.team-item-text {}
+
+секція 4 Our Portfolio
+
+.portfolio {}
+
+.portfolio-title {}
+
+.portfolio-list {}
+
+.portfolio-item {}
+
+.portfolio-item-img {}
+
+.portfolio-item-title {}
+
+.portfolio-item-text {}
+
+/* футер */
+
+.footer {}
+
+.footer-logo {}
+
+.footer-text {}
