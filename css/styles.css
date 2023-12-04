@@ -99,9 +99,9 @@ button {
     line-height: 1.5;
     letter-spacing: 0.04em;
 }
-.solution-button:hover
+.solution-button:hover,
 .solution-button:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 /* секція 2 feature */
